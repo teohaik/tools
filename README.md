@@ -3,7 +3,7 @@ tools created from time to time to server different purposes
 
 Contains files - tools:
 
-- addTimeStamp.py
+- addTimestamp.py
 
       Python script to add timestamp to WAR files of a folder
       Usage for windows console: 
