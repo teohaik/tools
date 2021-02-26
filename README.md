@@ -8,6 +8,6 @@ Contains files - tools:
       Python script to add timestamp to WAR files of a folder
       Usage for windows console: 
 
-        ```addTimestamp.py <FOLDER_CONTAINING_WAR_FILES> (Optional)```
+      addTimestamp.py <FOLDER_CONTAINING_WAR_FILES> (Optional)
 
       if no argument given, the script considers as working directory the script directory.
